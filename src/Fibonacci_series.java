@@ -1,7 +1,7 @@
 public class Fibonacci_series {
     public static void main(String[] args) {
         int n = 7;
-        System.out.println(fibonacciSeries(n));
+         System.out.println(fibonacciSeries(n));
     }
 
     private static int fibonacciSeries(int n) {
